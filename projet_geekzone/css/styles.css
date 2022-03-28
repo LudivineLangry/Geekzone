@@ -1,0 +1,359 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+.landing-page{
+    color: white;
+    margin-left: 30px;
+}
+
+.section-title{
+    font-size: 50px;
+    font-family: 'Abril FatFace';
+    font-weight: 100;
+    position: relative;
+    color: black;
+    text-decoration: none;
+}
+
+.container {
+    width: 700px;
+    border: 5px solid black;
+    border-radius: .5em;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 1em;
+  }
+  
+  .container2 {
+    width: 1500px;
+    border: 5px solid black;
+    border-radius: .5em;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin: 1em;
+  }
+
+  .column {
+    flex-direction: column;
+    height: 450px;
+    margin: 100px;
+  }
+  .column1 {
+    flex-direction: column;
+    height: 405px;
+    margin: 100px;
+  }
+  .column2 {
+    flex-direction: column;
+    height: 670px;
+    margin: 100px;
+    text-align: justify;
+  }
+  .column3 {
+    flex-direction: column;
+    height: 535px;
+    margin: 100px;
+  }
+  .column4 {
+    flex-direction: column;
+    height: 550px;
+    margin: 100px;
+  }
+  .column5 {
+    flex-direction: column;
+    height: 480px;
+    margin: 100px;
+  }
+  .column6 {
+    flex-direction: column;
+    height: 480px;
+    margin: 100px;
+  }
+  .column7 {
+    flex-direction: column;
+    height: 700px;
+    margin: 100px;
+  }
+  .column8 {
+    flex-direction: column;
+    height: 500px;
+    margin: 100px;
+  }
+  .column9 {
+    flex-direction: column;
+    height: 510px;
+    margin: 100px;
+  }
+  .column10 {
+    flex-direction: column;
+    height: 510px;
+    margin: 100px;
+  }
+  .column11 {
+    flex-direction: column;
+    height: 310px;
+    margin: 100px;
+  }
+  .column12 {
+    flex-direction: column;
+    height: 500px;
+    margin: 100px;
+  }
+  .column13 {
+    flex-direction: column;
+    height: 520px;
+    margin: 100px;
+  }
+  .column15 {
+    flex-direction: column;
+    height: 740px;
+    margin: 100px;
+  }
+  .column16 {
+    flex-direction: column;
+    height: 300px;
+    margin: 100px;
+  }
+  .column17 {
+    flex-direction: column;
+    height: 700px;
+    margin: 100px;
+  }
+  .column18 {
+    flex-direction: column;
+    height: 500px;
+    margin: 100px;
+  }
+  .column19 {
+    flex-direction: column;
+    height: 500px;
+    margin: 100px;
+  }
+  .column20 {
+    flex-direction: column;
+    height: 550px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+  .column21 {
+    flex-direction: column;
+    height: 500px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+  .column22 {
+    flex-direction: column;
+    height: 510px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+  .column23 {
+    flex-direction: column;
+    height: 710px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+  .column24 {
+    flex-direction: column;
+    height: 520px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+  .column25 {
+    flex-direction: column;
+    height: 510px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+  .column26 {
+    flex-direction: column;
+    height: 550px;
+    margin: 100px;
+    color: black;
+    line-height: 3px;
+    font-size: 14px;
+    font-weight: 800;
+    align-items: center;
+  }
+
+  .item {
+    width: 90px;
+    height: 37px;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid black;
+    
+  }
+  .arrondi1{
+    border-radius : 100px / 20px;
+    background: black;
+}
+
+.photo-bis{
+   margin-left: 40px;
+   text-align: center;
+}
+
+.photo-bi{
+    margin: 100px;
+}
+
+.section-title{
+    font-size: 50px;
+    font-family: 'Abril FatFace';
+    font-weight: 100;
+    position: relative;
+    color: black;
+    text-decoration: none;
+}
+
+.section-title::before{
+    content: "";
+    position: absolute;
+    background-color: #add981;
+    width: 50px;
+    height: 7px;
+    bottom: 0;
+    text-decoration: none;
+}
+
+.best-items{
+    margin: 100px;
+    text-align-last: center;
+    text-decoration: none;
+
+}
+
+.best-boutique{
+    min-height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align-last: center;
+    color: black;
+    text-decoration: none;
+}
+
+.boutique-box{
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+
+.no-grid{
+    min-width: 350px;
+    height: 500px;
+    flex: 1;
+}
+
+.boutique1{
+    background-image: url(../mini-aspirateur-usb.jpg);
+}
+
+.boutique2{
+    background-image: url(../frigo-usb-1.jpg);
+}
+
+.boutique3{
+    background-image: url(../frigo-usb.jpg);
+}
+
+.boutique4{
+    background-image: url(../chauffe-tasse-biscuit-usb.jpg);
+}
+
+.boutique-details{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: #FFFFFFDF;
+    padding: 5px 20px;
+
+}
+
+
+figure{
+  border: 1px solid #333;
+  padding: 5px;
+  width: 500px;
+}
+
+figcaption{
+  background-color: RGBa(0,0,0,0.8);
+  color: #FFFFFFDF;
+  text-align: center;
+  font-style: italic;
+}
+
+.nomVille{
+  color: black;
+  line-height: 3px;
+  font-size: 14px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.big-title{
+    color: black;
+}
+
+.text-center-img {
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.boutique-price{
+  color: #add981;
+  line-height: 3px;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.boutique-name{
+  padding-top: 10px;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 3px;
+}
+
+.boutique {
+  width: 100%;
+  border-spacing: 20px 2rem;
+}
+
+.boutique-taille {
+  background-color: #FFFFFFDF;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 25%;
+}
+
+.img {
+  width: 200px;
+}
