@@ -1,9 +1,9 @@
 <?php
-include 'header.php';
+include 'jointures/header.php';
 ?>
     <title>Client</title>
 <?php
-include 'body.php';
+include 'jointures/body.php';
 ?>
         <div class="landing-page">
             <h1 class="big-title">Inscription, Connexion</h1>
@@ -21,5 +21,5 @@ include 'body.php';
             
         </div>
 <?php
-include 'footer.php';
+include 'jointures/footer.php';
 ?>
